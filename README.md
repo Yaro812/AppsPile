@@ -14,7 +14,7 @@ work with Objective-C and Swift
 [AppCode](https://www.jetbrains.com/objc/) IDE that offers smarter way to
 refactor and write pure code. No xib or storyboards support there.
 
-[Androud studio](https://developer.android.com/studio/index.html) allows
+[Android studio](https://developer.android.com/studio/index.html) allows
 developing android apps
 
 ### Text editors
@@ -33,7 +33,7 @@ customization and handy markdown editor
 [Sketch](https://www.sketchapp.com) excellent tool for interoperability
 between developer and designer
 
-[Gif brewery](http://gifbrewery.com) create gifs from videos. Useful for making short app demo
+[Gif brewery](http://gifbrewery.com) create GIFs from videos. Useful for making short app demos
 
 [Hand brake](https://handbrake.fr) an open source video transcoder
 
@@ -52,7 +52,7 @@ git repositories
 [Easy APNs provider](https://itunes.apple.com/us/app/easy-apns-provider-push-notification-service-testing-tool/id989622350?mt=12) handy push notifications testing
 
 ### Terminal
-[Commander One](https://itunes.apple.com/ru/app/commander-one-двухпанельный-файловый-менеджер/id1035236694?mt=12) two window file à la Norton Commander
+[Commander One](https://itunes.apple.com/ru/app/commander-one-двухпанельный-файловый-менеджер/id1035236694?mt=12) two window file manager à la Norton Commander
 
 ### Utilities
 
