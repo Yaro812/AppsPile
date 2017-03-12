@@ -58,3 +58,40 @@ git repositories
 
 [SizeUp](http://www.irradiatedsoftware.com/sizeup/) small application that gives
 missing abilities to arrange windows on screen(s)
+
+iPhone. Developer instruments
+-----------------------------
+
+### Education
+
+[WWDC]()
+
+[Coursera]()
+
+[iTunesU]()
+
+[TED]()
+
+### Order
+
+[Timely]() Time tracker
+
+[OmniFocus]() Powerful GTD organizer
+
+[Grafio 3]() Create UML diagrams on iPad or even iPhone
+
+### Programming
+
+[Stack Exchange]() iOS client for StackOverflow
+
+[CodeToGo]() write small snippets of the code and test them on the go
+
+### Formulae
+
+[iMathematics]()
+
+[Math ref]()
+
+[WolframAlpha]()
+
+[Formulas]()
