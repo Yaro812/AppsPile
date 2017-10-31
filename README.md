@@ -56,29 +56,34 @@ git repositories
 
 ### Utilities
 
-[SizeUp](http://www.irradiatedsoftware.com/sizeup/) small application that gives
+[Magnet](https://itunes.apple.com/ru/app/magnet/id441258766?mt=12) small application that gives
 missing abilities to arrange windows on screen(s)
 
-iPhone. Developer instruments
+[]
+
+iPhone and iPad. Developer instruments
 -----------------------------
 
 ### Education
 
-[WWDC]()
+[WWDC](https://itunes.apple.com/ru/app/wwdc/id640199958?mt=8)
 
-[Coursera]()
+[Coursera](https://itunes.apple.com/ru/app/coursera-top-online-courses/id736535961?mt=8)
 
-[iTunesU]()
+[iTunesU](https://itunes.apple.com/ru/app/itunes-u/id490217893?mt=8)
 
-[TED]()
+[TED](https://itunes.apple.com/ru/app/ted/id376183339?mt=8)
 
 ### Order
 
-[Timely]() Time tracker
+[Timely](https://itunes.apple.com/ru/app/timely-auto-time-tracking/id619462420?mt=8) Time tracker
 
-[OmniFocus]() Powerful GTD organizer
+[OmniFocus 2](https://itunes.apple.com/ru/app/omnifocus-2/id904071710?mt=8) Powerful GTD organizer
 
-[Grafio 3]() Create UML diagrams on iPad or even iPhone
+[Grafio 3](https://itunes.apple.com/ru/app/grafio-3-diagrams-ideas/id382418196?mt=8) Create UML diagrams on iPad or even iPhone
+
+[OmniGraffle 3](https://itunes.apple.com/ru/app/omnigraffle-3/id1164289776?mt=8)
+Create schemes and diagrams on iPad
 
 ### Programming
 
@@ -90,8 +95,8 @@ iPhone. Developer instruments
 
 [iMathematics]()
 
-[Math ref]()
+[Math ref](https://itunes.apple.com/ru/app/math-ref/id301384057?mt=8)
 
-[WolframAlpha]()
+[WolframAlpha](https://itunes.apple.com/ru/app/wolframalpha/id334989259?mt=8)
 
 [Formulas]()
